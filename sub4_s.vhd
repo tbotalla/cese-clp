@@ -1,8 +1,6 @@
 ---------------------------------------------------------
--- Componente: sub4_s
---
 -- Restador signed de 4 bits (complemento a 2, combinacional).
--- s_o = a - b en 4 bits;
+-- s_o = a - b en 4 bits.
 -- ovf_o = overflow signed (signos distintos en a,b y signo de s_o distinto al de a).
 ---------------------------------------------------------
 

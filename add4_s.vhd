@@ -1,9 +1,7 @@
 ---------------------------------------------------------
--- Componente: add4_s
---
 -- Sumador signed de 4 bits (complemento a 2, combinacional).
--- s_o = a + b en 4 bits;
--- co_o = bit 4 de la suma en 5 bits;
+-- s_o = a + b en 4 bits.
+-- co_o = bit 4 de la suma en 5 bits.
 -- ovf_o = overflow signed (mismos signos en a,b y signo distinto en s_o).
 ---------------------------------------------------------
 
