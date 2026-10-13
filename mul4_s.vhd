@@ -2,7 +2,7 @@
 -- Multiplicador signed de 4 bits (combinacional).
 -- s_o = (a * b) en 4 bits (parte baja).
 -- ovf_o si el producto no cabe en 4 bits signed.
--- Usa operador * de numeric_std (profesor: no implementar parcial product a mano).
+-- Usa operador * de numeric_std.
 ---------------------------------------------------------
 
 library IEEE;
