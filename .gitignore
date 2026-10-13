@@ -1,0 +1,33 @@
+# --- Vivado (generado / local) ---
+.Xil/
+*.cache/
+*.sim/
+*.runs/
+*.hw/
+*.ip_user_files/
+
+*.jou
+*.log
+*.pb
+*.wdb
+*.vdi
+*.str
+*.backup.*
+*.backup.jou
+*.backup.log
+
+# Bitstream y debug probes (regenerables)
+*.bit
+*.bin
+*.mcs
+*.ltx
+
+# Webtalk / estadísticas
+*webtalk*
+usage_statistics_*
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+*~
+*.swp
