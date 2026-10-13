@@ -1,5 +1,5 @@
 ---------------------------------------------------------
--- Componente: alu
+-- alu
 --
 -- ALU combinacional de 4 bits; ADD/SUB/MUL/SHL signed (4 bits de resultado).
 -- Opcode: 00 ADD, 01 SUB, 10 MUL, 11 SHL (1 bit)
